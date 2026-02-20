@@ -1,3 +1,21 @@
+<h3 align="center" > Projects Screenshots</h3>
+<div>
+    <p>Login Page</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20login.png"/>
+    <p>Login Failed</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/login-salah%20pasword.png"/>
+    <p>Search Movie</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20movie%20sesuai%20pencarian%20movie.png"/>
+    <p>Movie Not Found</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20film%20tidak%20ditemukan.png" />
+    <p>Detail of Movie</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/detail%20film%20dan%20total%20favorite%20di%20tombol%20favorite.png" />
+    <p>Favorite Page</p>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20favorite.png" />
+</div>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
