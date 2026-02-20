@@ -1,21 +1,21 @@
-<h3 align="center" > Projects Screenshots</h3>
+<h2 align="center" > Projects Screenshots</h2>
 <div>
-    <h3>Login Page</h3> <hr/>
+    <h3>Login Page</h3> 
     <p>Must be login first and can't link to movie pages before login</p>
-    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20login.png"/>
-    <h3>Login Failed</h3> <hr/>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20login.png"/><hr/>
+    <h3>Login Failed</h3>
     <p>When input wrong username or password, would be display notification </p>
-    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/login-salah%20pasword.png"/>
-     <h3>Search Movie</h3> <hr/>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/login-salah%20pasword.png"/> <hr/>
+     <h3>Search Movie</h3> 
     <p>Input movie titles, genre or key to search the movies</p>
-    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20movie%20sesuai%20pencarian%20movie.png"/>
-    <h3>Movie Not Found</h3> <hr/>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20movie%20sesuai%20pencarian%20movie.png"/><hr/>
+    <h3>Movie Not Found</h3> 
     <p>When the movie not found, would be display the notification</p>
-    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20film%20tidak%20ditemukan.png" />
-   <h3>Detail of Movie</h3> <hr/>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20film%20tidak%20ditemukan.png" /><hr/>
+   <h3>Detail of Movie</h3> 
     <p>Page of the movie detail with de main picture, description and two buttons</p>
-    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/detail%20film%20dan%20total%20favorite%20di%20tombol%20favorite.png" />
-    <h3>Favorite Page</h3> <hr/>
+    <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/detail%20film%20dan%20total%20favorite%20di%20tombol%20favorite.png" /><hr/>
+    <h3>Favorite Page</h3>
     <p>The favorites page displays a list of films you've selected or clicked as favorites. Your total number of favorite films also appears under the Favorites button in the navbar.</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20favorite.png" />
 </div>
