@@ -1,16 +1,22 @@
 <h3 align="center" > Projects Screenshots</h3>
 <div>
-    <p>Login Page</p>
+    <h3>Login Page</h3> <hr/>
+    <p>Must be login first and can't link to movie pages before login</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20login.png"/>
-    <p>Login Failed</p>
+    <h3>Login Failed</h3> <hr/>
+    <p>When input wrong username or password, would be display notification </p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/login-salah%20pasword.png"/>
-    <p>Search Movie</p>
+     <h3>Search Movie</h3> <hr/>
+    <p>Input movie titles, genre or key to search the movies</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20movie%20sesuai%20pencarian%20movie.png"/>
-    <p>Movie Not Found</p>
+    <h3>Movie Not Found</h3> <hr/>
+    <p>When the movie not found, would be display the notification</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20film%20tidak%20ditemukan.png" />
-    <p>Detail of Movie</p>
+   <h3>Detail of Movie</h3> <hr/>
+    <p>Page of the movie detail with de main picture, description and two buttons</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/detail%20film%20dan%20total%20favorite%20di%20tombol%20favorite.png" />
-    <p>Favorite Page</p>
+    <h3>Favorite Page</h3> <hr/>
+    <p>The favorites page displays a list of films you've selected or clicked as favorites. Your total number of favorite films also appears under the Favorites button in the navbar.</p>
     <img src="https://github.com/Ronipas/movie-app/blob/main/public/Screenshot/halaman%20favorite.png" />
 </div>
 
