@@ -5,7 +5,7 @@
 <p>- Laravel 10 (Framework)</p>
 <p>- Bootstrap (UI)</p>
 <p>- SQL (Login and Favorite Films)</p>
-
+<hr/>
 <div>
     <h3>Login Page</h3> 
     <p>Must be login first and can't link to movie pages before login</p>
