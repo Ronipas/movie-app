@@ -1,4 +1,11 @@
-<h2 align="center" > Projects Screenshots</h2>
+<h2 align="center" > Projects Documentation</h2>
+
+<h3>Tools</h3>
+<p>- PHP 8.3</p>
+<p>- Laravel 10 (Framework)</p>
+<p>- Bootstrap (UI)</p>
+<p>- SQL (Login and Favorite Films)</p>
+
 <div>
     <h3>Login Page</h3> 
     <p>Must be login first and can't link to movie pages before login</p>
